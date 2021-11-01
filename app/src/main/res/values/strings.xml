@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseAndroidApplication</string>
+    <string name="search">Search</string>
+    <string name="search_gif">Search GIF</string>
+    <string name="gif_details">GIF Details</string>
+    <string name="search_here">Search here</string>
+    <string name="retry">Retry</string>
+    <string name="nothing_found">Sorry, no GIF found</string>
+</resources>
