@@ -1,5 +1,5 @@
 # BaseAndroidApplication
-
+This application is set up to act as a Base Android Application
 ## Architecture 
 MVVM
 
