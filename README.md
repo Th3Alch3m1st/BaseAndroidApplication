@@ -8,3 +8,4 @@ MVVM
 - Dependency injector: Hilt
 - Unit testing: JUnit4, Mockito
 - UI testing: Espresso
+- Kotlin DSL
